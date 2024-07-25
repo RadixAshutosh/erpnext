@@ -32,7 +32,7 @@
  "owner": "Administrator",
  "steps": [
   {
-   "step": "Create an Item"
+   "step": "Create an Item for testing purpose"
   },
   {
    "step": "Create a Customer"

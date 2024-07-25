@@ -44,12 +44,22 @@
    "fieldname": "account_name",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Account Name",
+   "label": "Account Nameeee",
    "no_copy": 1,
    "oldfieldname": "account_name",
    "oldfieldtype": "Data",
    "reqd": 1
   },
+  {
+    "fieldname": "test_field",
+    "fieldtype": "Data",
+    "in_list_view": 1,
+    "label": "Test Field add",
+    "no_copy": 1,
+    "oldfieldname": "test_field",
+    "oldfieldtype": "Data",
+    "reqd": 1
+   },
   {
    "fieldname": "account_number",
    "fieldtype": "Data",
@@ -117,11 +127,11 @@
    "search_index": 1
   },
   {
-   "description": "Setting Account Type helps in selecting this Account in transactions.",
+   "description": "Settingggg Account Type helps in selecting this Account in transactions.",
    "fieldname": "account_type",
    "fieldtype": "Select",
    "in_standard_filter": 1,
-   "label": "Account Type",
+   "label": "Account Typeeee",
    "oldfieldname": "account_type",
    "oldfieldtype": "Select",
    "options": "\nAccumulated Depreciation\nAsset Received But Not Billed\nBank\nCash\nChargeable\nCapital Work in Progress\nCost of Goods Sold\nCurrent Asset\nCurrent Liability\nDepreciation\nDirect Expense\nDirect Income\nEquity\nExpense Account\nExpenses Included In Asset Valuation\nExpenses Included In Valuation\nFixed Asset\nIncome Account\nIndirect Expense\nIndirect Income\nLiability\nPayable\nReceivable\nRound Off\nStock\nStock Adjustment\nStock Received But Not Billed\nService Received But Not Billed\nTax\nTemporary",
