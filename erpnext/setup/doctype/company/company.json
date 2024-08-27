@@ -120,7 +120,7 @@
   {
    "fieldname": "company_name",
    "fieldtype": "Data",
-   "label": "Companyyyyyyyyy",
+   "label": "Company Name",
    "oldfieldname": "company_name",
    "oldfieldtype": "Data",
    "reqd": 1,
@@ -129,7 +129,7 @@
   {
    "fieldname": "abbr",
    "fieldtype": "Data",
-   "label": "Abbrrrrrrrrrr",
+   "label": "Abbr",
    "oldfieldname": "abbr",
    "oldfieldtype": "Data",
    "reqd": 1,
@@ -279,7 +279,7 @@
   {
    "fieldname": "date_of_establishment",
    "fieldtype": "Date",
-   "label": "Date of Establishmenttttttttttttttttt"
+   "label": "Date of Establishment"
   },
   {
    "fieldname": "default_settings",
